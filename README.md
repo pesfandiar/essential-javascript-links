@@ -49,6 +49,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0) A later version of the influential talk, "Simple Made Easy" by [Rich Hickey](https://twitter.com/richhickey) #talk
 * [Making WebGL Dance](https://www.youtube.com/watch?v=GNO_CYUjMK8) by Steven Wittens #talk
 * [The Pixel Factory](https://www.youtube.com/watch?v=4NkjLWAkYZ8) by Steven Wittens #talk
+* [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux) by Dan Abramov. Describes a functional approach to application state that all developers should be aware of. #course #video
 
 ## Exercises
 
