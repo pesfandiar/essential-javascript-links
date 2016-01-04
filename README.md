@@ -16,9 +16,9 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Learn JavaScript Essentials (for all skill levels)](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) One clear path to JavaScript mastery #article
 * [The Two Pillars of JavaScript Part 1: Prototypal OO](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3) #article
 * [The Two Pillars of JavaScript Part 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4) #article
-* [JavaScript Objects](http://davidwalsh.name/javascript-objects) An excellent explanation of inheritance in JavaScript by Kyle Simpson #article
+* [JavaScript Objects](https://davidwalsh.name/javascript-objects) An excellent explanation of inheritance in JavaScript by Kyle Simpson #article
 * [How to Use ES6 for Universal JavaScript Apps](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2) A Babel config walkthrough #article
-* [Unapply attack](http://glebbahmutov.com/blog/unapply-attack/) Make your JS apps more secure by freezing builtins. #article
+* [Unapply attack](https://glebbahmutov.com/blog/unapply-attack/) Make your JS apps more secure by freezing builtins. #article
 * [JavaScript Application Architecture on the Road to 2015](https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b) Addy Osmani #article
 * [Modularity](http://jlongster.com/Modularity) A pragmatic take on the tiny modules vs batteries included approach
 * [Computer Science in JavaScript](https://github.com/nzakas/computer-science-in-javascript) by Nicholas C. Zakas #article
@@ -27,7 +27,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)  #article
 * [The General Theory of Reactivity](https://github.com/kriskowal/gtor) What is all this talk about reactive? Functional? Promises? This is the beginning of a reactive programming bible. #article
 * [Why Functional Programming Matters](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf) by John Hughes, 1984 #paper #pdf
-* [ES6 Generators](http://davidwalsh.name/es6-generators) A series of blog posts by Kyle Simpson #article
+* [ES6 Generators](https://davidwalsh.name/es6-generators) A series of blog posts by Kyle Simpson #article
 * [Typed JavaScript](http://www.2ality.com/2014/10/typed-javascript.html) Excellent post about the state of typed JavaScript by Axel Rauschmayer  #article
 * [ES6 Modules: The Final Syntax](http://www.2ality.com/2014/09/es6-modules-final.html) by @rauschma  #article
 * [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) A guide for people building JavaScript client SDKs #article
@@ -93,12 +93,12 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Tern](http://ternjs.net/) Static analysis in JavaScript
 * [JSDoc](http://usejsdoc.org/) Pair with [Tern](http://ternjs.net/) for static analysis
 * [Slate](https://github.com/tripit/slate) Generate beautiful API docs for your apps
-* [Slack](http://slack.com) Chat for teams, with GitHub and Google hangouts integration
+* [Slack](https://slack.com/) Chat for teams, with GitHub and Google hangouts integration
 * [Gitter](https://gitter.im/) Like Slack, but better for OSS projects and free chat.
 * [Airety](https://airety.com/) Better developer interviews via pair programming.
 * [PrettyDiff](http://prettydiff.com/)
-* [Babel Repl](https://babeljs.io/repl) The Babel REPL with compiled output
-* [Nitrous.IO](https://pro.nitrous.io/) Online IDE in the cloud with collaboration & Docker containers
+* [Babel Repl](http://babeljs.io/repl/) The Babel REPL with compiled output
+* [Nitrous.IO](https://www.nitrous.io/) Online IDE in the cloud with collaboration & Docker containers
 * [Koding](https://koding.com) Online cloud development platform with video & audio collaboration
 
 
@@ -120,7 +120,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Istanbul](https://github.com/gotwarlost/istanbul) Code coverage reporting
 * [tape](https://github.com/substack/tape) Dead simple unit testing #code
 * [faucet](https://github.com/substack/faucet) Prettify unit testing output (like what comes from tape).
-* [Supertest](https://github.com/tj/supertest) The best way to test HTTP endpoints.
+* [Supertest](https://github.com/visionmedia/supertest) The best way to test HTTP endpoints.
 
 
 ### Transpilers
@@ -147,7 +147,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) You'll want to cherry-pick the best of this for your production apps. See [Initializr](http://www.initializr.com) #code
 * [UpUp](https://www.talater.com/upup/) Make sure your site works even when your user is offline. #code
 * [cf-package](https://github.com/cloverfield-tools/cf-package) A Cloverfield scaffold that generates new modules (npm packages) complete with npm scripts and useful boilerplate. #code
-* [The Universal React Boilerplate](https://github.com/ericelliott/universal-react-boilerplate) Write apps using the same code for both the client and the server using Node, Express, and Browserify. #code
+* [The Universal React Boilerplate](https://github.com/cloverfield-tools/universal-react-boilerplate) Write apps using the same code for both the client and the server using Node, Express, and Browserify. #code
 * [NodeGoat](https://github.com/OWASP/NodeGoat) Identify security vulnerabilities in your Node apps. #code
 * [lightning.js](https://github.com/olark/lightningjs) Async fetch load 3rd party JS & expose a promise API. #code
 * [native-promise-only](https://github.com/getify/native-promise-only) An ECMAScript standard promise polyfill by Kyle Simpson. #code
@@ -158,7 +158,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [jQuery](http://jquery.com/) Most popular JS lib by a landslide. #code
 * [React](https://github.com/facebook/react) What do Facebook, Instagram, Netflix and PayPal have in common? React. #code
 * [Cycle.js](http://cycle.js.org) Like React, but more functional & reactive #code
-* [Lodash-FP](https://github.com/lodash/lodash-fp) Like Underscore, but much faster, and featuring a more expressive API. #code
+* [Lodash-FP](https://github.com/lodash-archive/lodash-fp) Like Underscore, but much faster, and featuring a more expressive API. #code
 * [RxJS](https://github.com/Reactive-Extensions/RxJS) Reactive extensions for JavaScript. [What's reactive?](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4) #code
 * [Page.js](https://github.com/visionmedia/page.js) Tiny client-side router, inspired by Express. #code
 * [Moment](http://momentjs.com/docs/) A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates. #code
@@ -167,7 +167,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Leaflet](http://leafletjs.com/) Interactive map UIs made easy. #code
 * [Lusca](https://github.com/krakenjs/lusca) Secure your Express application. By the Kraken team at PayPal.
 * [Express](http://expressjs.com/) The most popular framework for Node. #code
-* [Stampit](https://github.com/ericelliott/stampit) Create objects from reusable, composable behaviors. Prototypal inheritance with stamps. #code
+* [Stampit](https://github.com/stampit-org/stampit) Create objects from reusable, composable behaviors. Prototypal inheritance with stamps. #code
 * [Credential](https://github.com/ericelliott/credential) If you write Node apps with password logins, you need Credential. #code
 * [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) Easy JSON Web Token auth. #code
 * [cuid](https://github.com/ericelliott/cuid) GUIDs are broken - use cuid, instead. #code
@@ -196,14 +196,14 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [livereactload](https://github.com/milankinen/livereactload) Live patching for Browserify #code
 * [Redux](https://github.com/rackt/redux) Predictable state container (store) for JavaScript apps #code
 * [Redux Devtools](https://github.com/gaearon/redux-devtools) DevTools for Redux with hot reloading, timetravel debugging, and customizable UI
-* [Cerebral](https://github.com/christianalfoni/cerebral) An immutable store for global app state #code
+* [Cerebral](https://github.com/cerebral/cerebral) An immutable store for global app state #code
 * [react-native](https://github.com/facebook/react-native) React for mobile devices #code
 * [Elemental-UI](http://elemental-ui.com/) Modular UI component library for React. #code
 * [VelocityReact](https://github.com/twitter-fabric/velocity-react) Great animations for React #code
 * [react-art](https://github.com/reactjs/react-art) React for SVG or canvas #code
 * [react-canvas](https://github.com/Flipboard/react-canvas) React for canvas #code
 * [react-three](https://github.com/Izzimach/react-three) Three.js rendering for React #code
-* [react.rocks](http://react.rocks/) Pinterest-style directory of online demos with available code
+* [react.rocks](https://react.rocks/) Pinterest-style directory of online demos with available code
 * [TodoMVC in React](http://todomvc.com/examples/react/) #example
 * [JSX Specification](http://facebook.github.io/jsx/) #documentation
 
@@ -217,7 +217,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Relay FAQ](https://gist.github.com/wincent/598fa75e22bdfa44cf47) #article
 * [Mutations in Relay (slideshow)](https://speakerdeck.com/laneyk/mutations-in-relay) Slideshow + speaker notes #slideshow
 * [Relay and Routing](https://medium.com/@cpojer/relay-and-routing-36b5439bad9) by Christoph Pojer. #article
-* [Getting started with GraphQL and Node.js](http://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/) #article
+* [Getting started with GraphQL and Node.js](https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/) #article
 * [GraphQL Specification](https://github.com/facebook/graphql)
 * [GraphQL Reference Implementation](https://github.com/graphql/graphql-js) #code
 * [graphql-server](https://github.com/RisingStack/graphql-server) A GraphQL server implementation with Mongo / Mongoose #code
@@ -225,7 +225,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 ## Web Components
 
-* [FIRST](http://addyosmani.com/first/)
+* [FIRST](https://addyosmani.com/first/)
 * [Polyfills](http://webcomponents.org/polyfills/)
 * [HTML Imports](http://webcomponents.org/articles/introduction-to-html-imports/)
 * [Custom Elements](http://webcomponents.org/articles/introduction-to-custom-elements/)
@@ -243,9 +243,9 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Sauce Labs](https://saucelabs.com/) Cross platform web application testing with great collaboration and integration support
 * [Travis CI](https://travis-ci.org/) CI, of course
 * [Docker](https://www.docker.com/) Run your CI process using the same OS configs as your production systems.
-* [Shippable](https://www.shippable.com/) Docker-based hosted build / CI
+* [Shippable](https://app.shippable.com/) Docker-based hosted build / CI
 * [Tensō](http://avoidwork.github.io/tenso/) A thin API facade in Node
-* [Kong](http://getkong.org/) API/microservice extension and management layer, centralize auth, cache, logging, rate limiting, etc... plugins in Lua );
+* [Kong](https://getkong.org/) API/microservice extension and management layer, centralize auth, cache, logging, rate limiting, etc... plugins in Lua );
 
 
 ## Community
@@ -269,7 +269,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [EchoJS](http://www.echojs.com/)
 * [JavaScript Live](https://jslive.com/)
 * [JavaScript.com News](https://www.javascript.com/news)
-* [Node Module Of The Week](http://nmotw.in)
+* [Node Module Of The Week](https://nmotw.in)
 * [JavascriptKicks](http://javascriptkicks.com)
 * [5 Minutes of Javascript](https://fivejs.codeschool.com/)
 
@@ -289,7 +289,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [JS1k](http://js1k.com/) JavaScript demos in 1k of memory
 * [JS13k Games](http://js13kgames.com/) JavaScript games in 13k of memory
 * [FightCode game](http://fightcodegame.com/) program virtual battle bots and climb the leaderboard
-* [Node Knockout](http://nodeknockout.com/) The legendary Node competition
+* [Node Knockout](http://www.nodeknockout.com/) The legendary Node competition
 
 
 ## Hackable Hardware
