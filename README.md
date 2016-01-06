@@ -162,6 +162,8 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [RxJS](https://github.com/Reactive-Extensions/RxJS) Reactive extensions for JavaScript. [What's reactive?](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4) #code
 * [Page.js](https://github.com/visionmedia/page.js) Tiny client-side router, inspired by Express. #code
 * [Moment](http://momentjs.com/docs/) A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates. #code
+* [express-request-language](https://github.com/tinganho/express-request-language) Best implementation I've seen for `Accept-Language` negatiation in Express. #code
+* [accept-language](https://github.com/tinganho/node-accept-language) If you don't use express, accept-language is the low-level lib that powers `express-request-language` for language matching & fallback. #code
 * [Globalize](https://github.com/jquery/globalize) i18n / translate your app for many languages and locations (locales). #code
 * [dotenv](https://github.com/motdotla/dotenv) Easily manage environment variables #code
 * [Leaflet](http://leafletjs.com/) Interactive map UIs made easy. #code
