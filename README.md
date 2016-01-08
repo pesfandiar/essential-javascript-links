@@ -119,8 +119,9 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [ESLint no-inferred-methodname](https://github.com/johnstonbl01/eslint-no-inferred-method-name) A custom rule for a common problem. #code
 * [Istanbul](https://github.com/gotwarlost/istanbul) Code coverage reporting
 * [tape](https://github.com/substack/tape) Dead simple unit testing #code
-* [faucet](https://github.com/substack/faucet) Prettify unit testing output (like what comes from tape).
-* [Supertest](https://github.com/visionmedia/supertest) The best way to test HTTP endpoints.
+* [tap-browser-color](https://github.com/kirbysayshi/tap-browser-color) Prettify tap output in the browser. Works well with Tape. #code
+* [faucet](https://github.com/substack/faucet) Prettify tap output in the console. Plays well with Tape. #code
+* [Supertest](https://github.com/visionmedia/supertest) The best way to test HTTP endpoints. #code
 
 
 ### Transpilers
