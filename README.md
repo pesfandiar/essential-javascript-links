@@ -99,7 +99,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Airety](https://airety.com/) Better developer interviews via pair programming.
 * [PrettyDiff](http://prettydiff.com/)
 * [Babel Repl](http://babeljs.io/repl/) The Babel REPL with compiled output
-* [ESNextBin](http://esnextb.in/) A babel powered ES6+ browser REPL with npm package support.
+* [ESNextBin](http://esnextb.in/) A babel powered ES6+ browser bin with npm package support.
 * [Nitrous.IO](https://www.nitrous.io/) Online IDE in the cloud with collaboration & Docker containers
 * [Koding](https://koding.com) Online cloud development platform with video & audio collaboration
 
