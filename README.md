@@ -161,7 +161,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [jQuery](http://jquery.com/) Most popular JS lib by a landslide. #code
 * [React](https://github.com/facebook/react) What do Facebook, Instagram, Netflix and PayPal have in common? React. #code
 * [Cycle.js](http://cycle.js.org) Like React, but more functional & reactive #code
-* [Lodash-FP](https://github.com/lodash-archive/lodash-fp) Like Underscore, but much faster, and featuring a more expressive API. #code
+* [Lodash](https://lodash.com/) Like Underscore, but much faster, and featuring a more expressive API. Check out the [fp versions](https://github.com/lodash/lodash/tree/npm/fp) you can import from `lodash/fp` #code
 * [Ramda](http://ramdajs.com/) Like Lodash and Underscore, but with all functions automatically curried, and parameters arranged so that the data to be operated on is supplied last. #code
 * [RxJS](https://github.com/Reactive-Extensions/RxJS) Reactive extensions for JavaScript. [What's reactive?](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4) #code
 * [Page.js](https://github.com/visionmedia/page.js) Tiny client-side router, inspired by Express. #code
