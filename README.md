@@ -40,6 +40,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [Everything You Never Wanted to Know About JavaScript Numbers](https://www.youtube.com/watch?v=MqHDDtVYJRI) by Bartek Szopka #talk
 * [Asynchronous Programming at Netflix](https://www.youtube.com/watch?v=gawmdhCNy-A) [Jafar Husain](https://twitter.com/jhusain) #talk
 * [What is Reactive Programming?](https://www.youtube.com/watch?v=dwP1TNXE6fc) [Jafar Husain](https://twitter.com/jhusain) explains reactive programming #talk
+* [Introduction to React](https://www.youtube.com/watch?v=XxVg_s8xAms) by Jordan Walke #talk
 * [Introduction to Reactive Programming](https://egghead.io/series/introduction-to-reactive-programming) by André Staltz #video #course
 * [Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4) by [David Nolen](https://twitter.com/swannodette) #talk
 * [The Essence of FRP](http://begriffs.com/posts/2015-07-22-essence-of-frp.html) by Conal Elliott #talk
