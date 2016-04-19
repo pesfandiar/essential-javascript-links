@@ -58,6 +58,16 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 * [FreeCodeCamp](http://www.freecodecamp.com/) Learn to build apps & work on not-for-profit projects. #exercises
 * [LearnRx](http://reactivex.io/learnrx/) #exercises
+* [Javascripting](https://github.com/sethvincent/javascripting) Learn JavaScript by adventuring around in the terminal #exercises
+* [Functional Javascript](https://github.com/timoxley/functional-javascript-workshop) A functional javascript workshop #exercises
+* [BrowserifyAdventure](https://github.com/substack/browserify-adventure) Learn browserify with this educational adventure #exercises
+* [Count Up to Version 6 of JavaScript!](https://github.com/domenic/count-to-6) An intro to some ES6 features via a set of self-guided workshops #exercises
+* [ESNext Generation Interactive Workshop](https://github.com/jesstelford/esnext-generation) Learn ES6's Iterators & Generators in this interactive Javascript workshop #exercises
+* [Learn ES6 Generators](https://github.com/isRuslan/learn-generators) JavaScript ES6 generators workshopper #exercises
+* [Tower of babel](https://github.com/yosuke-furukawa/tower-of-babel) Tower of babel is tour of babel #exercises
+* [Promises](https://github.com/stevekane/promise-it-wont-hurt) A Workshopper module that teaches you to use promises in javascript #exercises
+* [WebGL](https://github.com/stackgl/webgl-workshop) Learn the WebGL API #exercises
+* [WebGL with three.js](https://github.com/alexmackey/IntroToWebGLWithThreeJS) An introduction to WebGL with three.js #exercises
 
 ## Spec
 
