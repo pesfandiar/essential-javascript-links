@@ -298,6 +298,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [ES6 Fiddle](http://www.es6fiddle.net/)
 * [CodePicNic](https://codepicnic.com/) Embed interactive full-stack snippets & demos
 * [JSBin](http://jsbin.com/?html,css,js,output) Embed editable code snippets.
+* [jsFiddle](https://jsfiddle.net/)
 
 
 ## Contests
