@@ -132,6 +132,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [eslint-plugin-no-class](https://github.com/emmenko/eslint-plugin-no-class) Forbid the ES6 `class` keyword. [Why?](https://github.com/eslint/eslint/pull/2096#issuecomment-83044888)
 * [ESLint no-inferred-methodname](https://github.com/johnstonbl01/eslint-no-inferred-method-name) A custom rule for a common problem. #code
 * [Istanbul](https://github.com/gotwarlost/istanbul) Code coverage reporting
+* [nyc](https://github.com/bcoe/nyc) a code coverage tool built on istanbul that works for applications that spawn subprocesses.
 * [tape](https://github.com/substack/tape) Dead simple unit testing #code
 * [tap-browser-color](https://github.com/kirbysayshi/tap-browser-color) Prettify tap output in the browser. Works well with Tape. #code
 * [faucet](https://github.com/substack/faucet) Prettify tap output in the console. Plays well with Tape. #code
