@@ -214,6 +214,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) #code
 * [React Hot Loader](https://gaearon.github.io/react-hot-loader/) Live patching for Webpack #code
 * [livereactload](https://github.com/milankinen/livereactload) Live patching for Browserify #code
+* [MobX](https://github.com/mobxjs/mobx) Simple, scalable state management with TFRP.
 * [Redux](https://github.com/rackt/redux) Predictable state container (store) for JavaScript apps #code
 * [Redux Devtools](https://github.com/gaearon/redux-devtools) DevTools for Redux with hot reloading, timetravel debugging, and customizable UI
 * [Cerebral](https://github.com/cerebral/cerebral) An immutable store for global app state #code
