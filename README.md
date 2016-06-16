@@ -58,6 +58,7 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 
 * [FreeCodeCamp](http://www.freecodecamp.com/) Learn to build apps & work on not-for-profit projects. #exercises
 * [LearnRx](http://reactivex.io/learnrx/) #exercises
+* [JavaScript Online](https://javascript.onl) A free collection of JavaScript problems with an online judge #exercises
 * [Javascripting](https://github.com/sethvincent/javascripting) Learn JavaScript by adventuring around in the terminal #exercises
 * [Functional Javascript](https://github.com/timoxley/functional-javascript-workshop) A functional javascript workshop #exercises
 * [BrowserifyAdventure](https://github.com/substack/browserify-adventure) Learn browserify with this educational adventure #exercises
